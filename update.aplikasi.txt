@@ -3,6 +3,5 @@
 "version":1.7",
 "cangelog":fix bug",
 "link":https://portal.start.io/#/pub/reports/analytics"
-"visibility":Show",
 }
 ]
